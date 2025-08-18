@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "firstName": "Nimal",
+    "lastName": "Perera",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "nearestCity": "Colombo"
+  },
+  {
+    "id": 2,
+    "firstName": "Samantha",
+    "lastName": "Fernando",
+    "designation": "HR Manager",
+    "department": "Software Engineer",
+    "nearestCity": "Galle"
+  },
+  {
+    "id": 3,
+    "firstName": "Kavindu",
+    "lastName": "Silva",
+    "designation": "Accountant",
+    "department": "Finance",
+    "nearestCity": "Kandy"
+  },
+  {
+    "id": 4,
+    "firstName": "Dilani",
+    "lastName": "Wijesinghe",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "nearestCity": "Kurunegala"
+  },
+  {
+    "id": 5,
+    "firstName": "Hasitha",
+    "lastName": "Jayawardena",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "nearestCity": "Colombo"
+  },
+  {
+    "id": 6,
+    "firstName": "Tharushi",
+    "lastName": "Gunasekara",
+    "designation": "Business Analyst",
+    "department": "Business Development",
+    "nearestCity": "Matara"
+  },
+  {
+    "id": 7,
+    "firstName": "Ravindu",
+    "lastName": "Dias",
+    "designation": "Software Tester",
+    "department": "Quality Assurance",
+    "nearestCity": "Negombo"
+  },
+  {
+    "id": 8,
+    "firstName": "Chathurika",
+    "lastName": "Ekanayake",
+    "designation": "Project Manager",
+    "department": "IT",
+    "nearestCity": "Colombo"
+  },
+  {
+    "id": 9,
+    "firstName": "Supun",
+    "lastName": "Karunaratne",
+    "designation": "Operations Officer",
+    "department": "Operations",
+    "nearestCity": "Anuradhapura"
+  },
+  {
+    "id": 10,
+    "firstName": "Ishara",
+    "lastName": "Ranasinghe",
+    "designation": "Customer Support Executive",
+    "department": "Customer Service",
+    "nearestCity": "Jaffna"
+  },
+    {
+        "id": 11,
+        "firstName": "Prabodha",
+        "lastName": "Perera",
+        "designation": "Data Analyst",
+        "department": "Data Science",
+        "nearestCity": "Batticaloa"
+    },
+    {
+        "id": 12,
+        "firstName": "Nadeesha",
+        "lastName": "Fernando",
+        "designation": "Graphic Designer",
+        "department": "Design",
+        "nearestCity": "Gampaha"
+    }
+    ,
+    {
+        "id": 13,
+        "firstName": "Nimal",
+        "lastName": "Perera",
+        "designation": "Software Engineer",
+        "department": "IT",
+        "nearestCity": "Colombo"
+    },
+    {
+        "id": 14,
+        "firstName": "Samantha",
+        "lastName": "Fernando",
+        "designation": "HR Manager",
+        "department": "Human Resources",
+        "nearestCity": "Galle"
+    }
+]
